@@ -1,9 +1,9 @@
-name: FoxyUI
-main: FoxyUI\Main
-version: 1.0.0
+name: foxyui
+main: flaviofoxy\joinUI\Main
+author: flaviofoxy
+version: 1.0
 api: 3.14.0
-author: FlavioFoxy
 
 command:
-  foxy:
-    description: "foxyui testing"
+  fox:
+    description: "This Is a Test!!"
